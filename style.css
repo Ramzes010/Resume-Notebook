@@ -488,4 +488,21 @@ body{
  .services-content p{
    /* font-size: 12px; */
  }
+
+ .services-content h3{
+   font-size: 1.1rem;
+   color: #000;
+ }
+
+ .book-page h3{
+   color: #000;
+ }
+
+ .info-box p{
+   color: #000000cc;
+ }
+
+ .info-box .asd{
+   color: #0000009c;
+ }
  /* Моя нароботка */
